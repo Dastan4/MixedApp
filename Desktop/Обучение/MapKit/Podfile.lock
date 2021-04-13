@@ -1,0 +1,38 @@
+PODS:
+  - YandexMapKit (3.5.0):
+    - YandexRuntime (= 3.5.0)
+  - YandexMapKitDirections (3.5.0):
+    - YandexMapKit (= 3.5.0)
+    - YandexRuntime (= 3.5.0)
+  - YandexMapKitPlaces (3.5.0):
+    - YandexMapKit (= 3.5.0)
+    - YandexRuntime (= 3.5.0)
+  - YandexMapKitSearch (3.5.0):
+    - YandexMapKit (= 3.5.0)
+    - YandexRuntime (= 3.5.0)
+  - YandexRuntime (3.5.0)
+
+DEPENDENCIES:
+  - YandexMapKit (= 3.5)
+  - YandexMapKitDirections (= 3.5)
+  - YandexMapKitPlaces (= 3.5)
+  - YandexMapKitSearch (= 3.5)
+
+SPEC REPOS:
+  trunk:
+    - YandexMapKit
+    - YandexMapKitDirections
+    - YandexMapKitPlaces
+    - YandexMapKitSearch
+    - YandexRuntime
+
+SPEC CHECKSUMS:
+  YandexMapKit: ecd4b78de34a35df63d066ac299e6fd0fe46d1ba
+  YandexMapKitDirections: 4298725d34df043ec127dd6e76f457e24f378188
+  YandexMapKitPlaces: 6bc38c5e6fa34870a3c718a0b7921bf159cae7ee
+  YandexMapKitSearch: b46ddd1c80e2e35d006cdfc4ab88070a50cebeda
+  YandexRuntime: 2d55244d06267106cf9b00c25a1e63f72a73b6fd
+
+PODFILE CHECKSUM: 1bc623e5c7e74ddf88bc7a38a9a877d4eac23972
+
+COCOAPODS: 1.10.1
